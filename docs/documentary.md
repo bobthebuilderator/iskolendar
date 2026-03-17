@@ -1,5 +1,5 @@
 # GROUP PENT-A-GON’S DOCUMENTATION FILE
-=====
+======
 1. **Logic Plan**
 ------
 
