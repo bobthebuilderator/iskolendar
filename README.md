@@ -30,7 +30,12 @@ The Iskolendar requires the following to run:
 
 ## Authors/Contributors
 * Adante, Aizen Nicko
+> Planning, Documenting, Coding, and this README.md file.
 * Agena, Genedith Claire
+> Planning, Documenting, Coding, Debugging, this README.md file, and this entire repository.
 * Alea, Ivan Nemesio
+> Planning, Documenting, Coding, Debugging, Developing the main code.
 * Alibogha, Bea Ysabelle
+> Planning, Documenting, Coding, Debugging, Overall Lead Developer.
 * Arellano, Rover Andrey
+> Planning, Documenting, Coding, Debugging, Developing the main code.
