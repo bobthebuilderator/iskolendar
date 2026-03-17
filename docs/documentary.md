@@ -3,7 +3,7 @@
 1. **Logic Plan**
 
 
-START
+{content: START
  Display welcome message
 
  call login()
@@ -27,7 +27,7 @@ teacher_menu():
 student_menu():
  Display Menu Options (Add Task, Event,or Schedule/View Calendar/Exit)
  Loop Back to Menu
-Perform action based on choice
+Perform action based on choice}
 
 2. **System Explanation**
 
