@@ -10,7 +10,7 @@ The Iskolendar is a program designed for teachers and students to manage school 
 * View and update list of students and assessment status (for students)
 
 ## Features
-* Log-in system for teachers and students
+* Basic log-in system for teachers and students (see main code for specific inputs)
 * Main menu for events, tasks, and schedules
 * Menu for teachers to view and update list of students and status of assessments
 * Ability for teachers and students to add, update, and view current tasks, events, and schedules
