@@ -3,31 +3,31 @@
 1. **Logic Plan**
 
 
-START
-&nbsp;Display welcome message
+START  
+&nbsp;Display welcome message  
 
-&nbsp;call login()
-&nbsp;&nbsp;Display Log-in Options (teacher/student/exit)
-&nbsp;&nbsp;IF Teacher:
-&nbsp;&nbsp;&nbsp;Input Teacher Credentials
-&nbsp;&nbsp;&nbsp;IF Valid: goto teacher_menu()
-&nbsp;&nbsp;IF Student:
-&nbsp;&nbsp;&nbsp;Input Student Credentials
-&nbsp;&nbsp;&nbsp;IF Valid: goto student_menu()
-&nbsp;&nbsp;ELSE: Exit
+&nbsp;call login()  
+&nbsp;&nbsp;Display Log-in Options (teacher/student/exit)  
+&nbsp;&nbsp;IF Teacher:  
+&nbsp;&nbsp;&nbsp;Input Teacher Credentials  
+&nbsp;&nbsp;&nbsp;IF Valid: goto teacher_menu()  
+&nbsp;&nbsp;IF Student:  
+&nbsp;&nbsp;&nbsp;Input Student Credentials  
+&nbsp;&nbsp;&nbsp;IF Valid: goto student_menu()  
+&nbsp;&nbsp;ELSE: Exit  
 
-IF login() == True: Loop Back to Start
-ELSE: End
+IF login() == True: Loop Back to Start  
+ELSE: End  
 
-teacher_menu():
-&nbsp;Display Menu Options (View Students/Add Task, Event, or Schedule/View Calendar/Exit)
-&nbsp;Perform action based on choice
-&nbsp;Loop Back to Menu
+teacher_menu():  
+&nbsp;Display Menu Options (View Students/Add Task, Event, or Schedule/View Calendar/Exit)  
+&nbsp;Perform action based on choice  
+&nbsp;Loop Back to Menu  
 
-student_menu():
-&nbsp;Display Menu Options (Add Task, Event,or Schedule/View Calendar/Exit)
-&nbsp;Loop Back to Menu
-Perform action based on choice
+student_menu():  
+&nbsp;Display Menu Options (Add Task, Event,or Schedule/View Calendar/Exit)  
+&nbsp;Loop Back to Menu  
+Perform action based on choice  
 
 2. **System Explanation**
 
