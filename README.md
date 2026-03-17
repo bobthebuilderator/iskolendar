@@ -1,5 +1,5 @@
 # Iskolendar / Scholendar
-======
+------
 
 ## Description
 The Iskolendar is a program designed for teachers and students to manage school tasks and events. Users can log in to ensure security, and both teachers and students can add, save, and edit tasks, events, and schedules.
