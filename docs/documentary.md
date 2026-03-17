@@ -3,31 +3,31 @@
 1. **Logic Plan**
 
 
-{content: START
- Display welcome message
+START
+&nbsp;Display welcome message
 
- call login()
-  Display Log-in Options (teacher/student/exit)
-  IF Teacher:
-    Input Teacher Credentials
-    IF Valid: goto teacher_menu()
-  IF Student:
-    Input Student Credentials
-    IF Valid: goto student_menu()
-  ELSE: Exit
+&nbsp;call login()
+&nbsp;&nbsp;Display Log-in Options (teacher/student/exit)
+&nbsp;&nbsp;IF Teacher:
+&nbsp;&nbsp;&nbsp;Input Teacher Credentials
+&nbsp;&nbsp;&nbsp;IF Valid: goto teacher_menu()
+&nbsp;&nbsp;IF Student:
+&nbsp;&nbsp;&nbsp;Input Student Credentials
+&nbsp;&nbsp;&nbsp;IF Valid: goto student_menu()
+&nbsp;&nbsp;ELSE: Exit
 
 IF login() == True: Loop Back to Start
 ELSE: End
 
 teacher_menu():
- Display Menu Options (View Students/Add Task, Event, or Schedule/View Calendar/Exit)
- Perform action based on choice
- Loop Back to Menu
+&nbsp;Display Menu Options (View Students/Add Task, Event, or Schedule/View Calendar/Exit)
+&nbsp;Perform action based on choice
+&nbsp;Loop Back to Menu
 
 student_menu():
- Display Menu Options (Add Task, Event,or Schedule/View Calendar/Exit)
- Loop Back to Menu
-Perform action based on choice}
+&nbsp;Display Menu Options (Add Task, Event,or Schedule/View Calendar/Exit)
+&nbsp;Loop Back to Menu
+Perform action based on choice
 
 2. **System Explanation**
 
