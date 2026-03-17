@@ -24,7 +24,9 @@ The Iskolendar requires the following to run:
 2. The program will now bring you to the main menu. From the choices presented (add task/event/schedule, view students/calendar, etc.), enter the corresponding number of your choice. If you wish to log out, press any other key.
 
 ## Sample Interface/Outputs
-[Insert screenshot/s here]
+<img width="464" height="931" alt="image" src="https://github.com/user-attachments/assets/14192e76-2f14-4243-a67a-8f502131a3d7" />
+<img width="347" height="986" alt="image" src="https://github.com/user-attachments/assets/d497ccb5-5334-4402-879f-8870cf8d7ecb" />
+<img width="448" height="256" alt="image" src="https://github.com/user-attachments/assets/1c075cdf-bed4-49f6-bb70-9b1c0de72132" />
 
 ## Authors/Contributors
 * Adante, Aizen Nicko
