@@ -13,15 +13,17 @@ The Iskolendar is a program designed for teachers and students to manage school 
 * Basic log-in system for teachers and students (see main code for specific inputs)
 * Main menu for events, tasks, and schedules
 * Menu for teachers to view and update list of students and status of assessments
-* Ability for teachers and students to add, update, and view current tasks, events, and schedules
+* Ability for teachers and students to add, update, and view current tasks, events, and schedules.
 
 ## Program Requirements
 The Iskolendar requires the following to run:
-* Programming Language: Python
+* Programming Language: Python version 3.14 or higher.
 
 ## How to run the program
-1. To log in, confirm if you are a teacher or student, then enter your username and password. If you wish to exit, press any other key.
-2. The program will now bring you to the main menu. From the choices presented (add task/event/schedule, view students/calendar, etc.), enter the corresponding number of your choice. If you wish to log out, press any other key.
+1. Download the .py file under iskolendar/src.
+2. Double-click for it to run.
+3. To log in, confirm if you are a teacher or student, then enter your username and password. If you wish to exit, press any other key.
+4. The program will now bring you to the main menu. From the choices presented (add task/event/schedule, view students/calendar, etc.), enter the corresponding number of your choice. If you wish to log out, press any other key.
 
 ## Sample Interface/Outputs
 <img width="464" height="931" alt="image" src="https://github.com/user-attachments/assets/14192e76-2f14-4243-a67a-8f502131a3d7" />
